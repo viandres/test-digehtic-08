@@ -1,0 +1,4 @@
+.venv
+data
+setup.ps1
+notebooks/eda_mimic.ipynb
